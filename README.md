@@ -6,8 +6,8 @@ Para la nota de PC2, se le asignará realizar un trabajo de manera grupal.
 
 El trabajo se realizará con un máximo de 4 integrantes. Enviar los integrantes de su grupo:
 
-- L1.01: 1-dec-2021 hasta las 11:59
-- L1.02: 2-dec-2021 hasta las 11:59
+- L1.01: 1-dec-2021 hasta las 11:59pm
+- L1.02: 2-dec-2021 hasta las 11:59pm
 
 Al correo `fvilchez arroba utec punto edu punto pe` con el asunto `[L1.01 ICC] Grupo PC2` o `[L1.02 ICC] Grupo PC2` indicando el tema en el que trabajaran. Quienes no envien un grupo, se les procedera a asignar un grupo de manera aleatoria.
 
