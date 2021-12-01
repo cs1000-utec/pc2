@@ -24,4 +24,4 @@ Ejemplo:
 
 ## Presentacion (3 mins)
 
-Mostrar el funcionamiento de todas las APIs e incluir un README.md en el cual se detalle las APIs disponibles y los parametros que deben pasarse en cada uno de ellos
+Mostrar el funcionamiento de todas las APIs e incluir un README.md en el cual se detalle las APIs disponibles, los parametros que deben pasarse en cada uno de ellos y la manera en que su proyecto puede ejecutarse localmente.
