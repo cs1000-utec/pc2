@@ -18,7 +18,7 @@ Al correo `fvilchez arroba utec punto edu punto pe` con el asunto `[L1.01 ICC] G
 - [Opcion 3 (Ursina)](./option3)
 - [Opcion 4 (API)](./option4)
 
-## Sobre la presentación
+## Sobre la presentación (en vivo y en directo)
 
 - L1.01: 22-dec-2021
 - L1.02: 16-dec-2021
