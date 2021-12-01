@@ -27,5 +27,5 @@ Detalles de cada presentación se encuentra en los enunciados para cada opcion.
 
 ## Sobre el entregable
 
-- Entregar el link de su repositorio con el proyecto y la plataforma del canvas.
+- Entregar el link de su repositorio con el proyecto a la plataforma del canvas.
 - Incluir una [autocalificación del grupo](./autocalification.md).
