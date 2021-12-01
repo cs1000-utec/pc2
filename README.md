@@ -20,7 +20,7 @@ Al correo `fvilchez arroba utec punto edu punto pe`. Quienes no envien un grupo,
 
 ## Sobre la presentación
 
-- L1.01: 15-dec-2021
+- L1.01: 22-dec-2021
 - L1.02: 16-dec-2021
 
 Detalles de cada presentación se encuentra en los enunciados para cada opcion.
