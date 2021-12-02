@@ -12,13 +12,13 @@ Pasos a seguir:
 
 - Cada miembro del equipo debe crear un archivo `.md` en el cual hablen sobre un tema de programación de su elección, para ello deberá realizar los siguientes pasos:
 
-  - Crear un Issue describiendo el cambio que realizaran.
+  - Crear un [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository) describiendo el cambio que realizaran.
 
   - Crear un branch con la extensión `feature/numerodeissues-detalles-del-cambio`. Por ejemplo: `feature/1-computer-vision`.
 
   - \* Agregar su archivo `.md` a dicho branch.
 
-  - Crear un pull requests para que incluyan su branch a `development`.
+  - Crear un [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) para que incluyan su branch a `development`.
 
   - Conseguir que el team apruebe el pull request y mergearlo a `development`.
 
