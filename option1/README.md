@@ -6,7 +6,7 @@ Pasos a seguir:
 
 - Crear un repositorio e inicializarlo con un archivo README.md
 
-- Tener creados/crear un branch `main` y un branch `development`.
+- Tener creados/crear un [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) `main` y un branch `development`.
 
 - Asignar permisos a todos los integrantes (desde ahora conocido como equipo) menos a uno de ellos (desde ahora conocido como colaborador externo).
 
