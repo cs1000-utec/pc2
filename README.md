@@ -29,3 +29,8 @@ Detalles de cada presentación se encuentra en los enunciados para cada opcion.
 
 - Entregar el link de su repositorio con el proyecto y la plataforma del canvas.
 - Incluir una [autocalificación del grupo](./autocalification.md).
+
+## Grupos
+
+- [L1.01](./l1.01.md)
+- [L1.02](./l1.02.md)
