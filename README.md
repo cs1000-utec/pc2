@@ -6,10 +6,10 @@ Para la nota de PC2, se le asignará realizar un trabajo de manera grupal.
 
 El trabajo se realizará con un máximo de 4 integrantes. Enviar los integrantes de su grupo:
 
-- L1.01: 1-dec-2021 hasta las 11:59
-- L1.02: 2-dec-2021 hasta las 11:59
+- L1.01: 1-dec-2021 hasta las 11:59pm
+- L1.02: 2-dec-2021 hasta las 11:59pm
 
-Al correo `fvilchez arroba utec punto edu punto pe`. Quienes no envien un grupo, se les procedera a asignar un grupo de manera aleatoria.
+Al correo `fvilchez arroba utec punto edu punto pe` con el asunto `[L1.01 ICC] Grupo PC2` o `[L1.02 ICC] Grupo PC2` indicando el tema en el que trabajaran. Quienes no envien un grupo, se les procedera a asignar un grupo de manera aleatoria.
 
 ## Sobre los temas
 
@@ -18,16 +18,16 @@ Al correo `fvilchez arroba utec punto edu punto pe`. Quienes no envien un grupo,
 - [Opcion 3 (Ursina)](./option3)
 - [Opcion 4 (API)](./option4)
 
-## Sobre la presentación
+## Sobre la presentación (en vivo y en directo)
 
-- L1.01: 15-dec-2021
+- L1.01: 22-dec-2021
 - L1.02: 16-dec-2021
 
 Detalles de cada presentación se encuentra en los enunciados para cada opcion.
 
 ## Sobre el entregable
 
-- Entregar el link de su repositorio con el proyecto y la plataforma del canvas.
+- Entregar el link de su repositorio con el proyecto a la plataforma del canvas.
 - Incluir una [autocalificación del grupo](./autocalification.md).
 
 ## Grupos

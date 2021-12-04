@@ -6,19 +6,19 @@ Pasos a seguir:
 
 - Crear un repositorio e inicializarlo con un archivo README.md
 
-- Tener creados/crear un branch `main` y un branch `development`.
+- Tener creados/crear un [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) `main` y un branch `development`.
 
 - Asignar permisos a todos los integrantes (desde ahora conocido como equipo) menos a uno de ellos (desde ahora conocido como colaborador externo).
 
 - Cada miembro del equipo debe crear un archivo `.md` en el cual hablen sobre un tema de programación de su elección, para ello deberá realizar los siguientes pasos:
 
-  - Crear un Issue describiendo el cambio que realizaran.
+  - Crear un [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository) describiendo el cambio que realizaran.
 
   - Crear un branch con la extensión `feature/numerodeissues-detalles-del-cambio`. Por ejemplo: `feature/1-computer-vision`.
 
   - \* Agregar su archivo `.md` a dicho branch.
 
-  - Crear un pull requests para que incluyan su branch a `development`.
+  - Crear un [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) para que incluyan su branch a `development`.
 
   - Conseguir que el team apruebe el pull request y mergearlo a `development`.
 
