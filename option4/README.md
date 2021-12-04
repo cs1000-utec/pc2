@@ -25,3 +25,36 @@ Ejemplo:
 ## Presentacion (3 mins)
 
 Mostrar el funcionamiento de todas las APIs e incluir un README.md en el cual se detalle las APIs disponibles, los parametros que deben pasarse en cada uno de ellos y la manera en que su proyecto puede ejecutarse localmente.
+
+## Información adicional para el README
+
+Incluir en el README.md una sección llamada "Especificación del API" en el cual se detalle **para cada API**:
+
+- URL.
+- Parametros que recibe la URL y que valor representa cada uno de ellos.
+- Salida que devolverá el programa.
+- Ejemplo de una invocación a dicha API (url y salida).
+
+Ejemplo:
+
+```
+# Especificación del API
+
+## URL
+/cube/volumen/:lado
+
+## Parametros
+- lado: Lado del cubo
+
+## Salida
+Volumen del cubo
+
+## Ejemplo
+
+- URL: localhost:9000/cube/volumen/3
+- Salida: 27 (o screenshot de la salida en caso existan gráficos)
+
+...
+...
+...
+```

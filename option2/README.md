@@ -13,3 +13,9 @@ Meta: Realizar reportes gráficos utilizando el achivo `pokemon.json` con el cua
 ## Presentacion (2 mins)
 
 Mostrar los gráficos realizados
+
+## Información adicional para el README
+
+Incluir en el README.md del proyecto captura(s) de pantalla de:
+
+- Cada uno de los gráficos realizados con el nombre respectivo del gráfico.

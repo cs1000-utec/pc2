@@ -10,4 +10,10 @@ Enviar un correo con la propuesta a `fvilchez arroba utec punto edu punto pe`
 
 ## Presentacion (1 min)
 
-Presentar el proyecto desarrollado. Incluir un README.md en el cual se detalle una descripcion del proyecto y la manera en que una persona puede ejecutarlo en su PC.
+Mostrar el proyecto desarrollado. 
+
+## Información adicional para el README
+
+Incluir en el README.md del proyecto captura(s) de pantalla de:
+
+- El resultado al ejecutar el proyecto desarrollado.
