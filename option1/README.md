@@ -32,7 +32,7 @@ Utilizar `git` para ingresar código a un repositorio siguiendo la aún muy util
 
 ### Pasos a realizar por el *Colaborador Externo*
 
-- El colaborador externo debe realizar algo similar:
+- El colaborador externo debe de igual manera agregar un nuevo archivo sobre un tema de CS. Los pasos a seguir son *similares* a los del equipo:
 
   - Crear un Issue describiendo el cambio que realizaran.
 
