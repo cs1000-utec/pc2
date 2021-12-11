@@ -13,17 +13,17 @@ Al correo `fvilchez arroba utec punto edu punto pe` con el asunto `[L1.01 ICC] G
 
 ## Sobre los temas
 
-- [Opcion 1 (Gitflow)](./option1)
-- [Opcion 2 (Visualizacion de datos)](./option2)
-- [Opcion 3 (Ursina)](./option3)
-- [Opcion 4 (API)](./option4)
+- [Opción 1 (Gitflow)](./option1)
+- [Opción 2 (Visualizacion de datos)](./option2)
+- [Opción 3 (Ursina)](./option3)
+- [Opción 4 (API)](./option4)
 
 ## Sobre la presentación (en vivo y en directo)
 
 - L1.01: 22-dec-2021
 - L1.02: 16-dec-2021
 
-Detalles de cada presentación se encuentra en los enunciados para cada opcion.
+Detalles de cada presentación se encuentra en los enunciados para cada opción.
 
 ## Sobre el entregable
 
