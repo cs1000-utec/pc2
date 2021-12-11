@@ -53,3 +53,21 @@ Los grupos fueron armados por los estudiantes. Los estudiantes sin grupo fueron 
 
 - Horario [L1.01](./l1.01.md).
 - Horario [L1.02](./l1.02.md).
+
+## Calificación
+
+La calificación del proyecto consistirá en los siguientes aspectos:
+
+- Presentación del trabajo (4) + README (1) (0 - 5 puntos)
+- Preguntas a los integrantes sobre el proyeto desarrollado:
+  - Pregunta 1 (3 puntos)
+  - Pregunta 2 (3 puntos)
+  - Pregunta 3 (3 puntos)
+  - Pregunta 4 (3 puntos)
+  - Pregunta 5 (3 puntos)
+
+Las preguntas podrán serán dirigidas en general a todo el grupo o en algunas ocasiones directamente a algunos integrantes.
+
+El proyecto tendrá una nota única la cual será calculada individualmente dependiendo de la autocalificación.
+
+*En caso se detecte plagio, el proyecto obtendrá directamente la nota establecida por el reglamento de la institución académica.*
